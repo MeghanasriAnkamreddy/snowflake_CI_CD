@@ -1,2 +1,3 @@
 def display_message():
-  print('hello')
+  message = 'Hello'
+  return message
